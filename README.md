@@ -12,3 +12,7 @@ https://www.kaggle.com/yasufuminakama/pytorch-image-models
 Designed a Multi-scale Cnn network to Identify similar images in a dataset. Used Efficient-B4 as base network.
 
 By using only Images to find similarity: F1 score on leaderboard is 0.65.
+
+
+
+Refrence paper:https://arxiv.org/pdf/1901.03546v1.pdf
